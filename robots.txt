@@ -1,2 +1,6 @@
+# Permite el rastreo de esta demo (una sola página).
+# Cubre buscadores y asistentes de IA: Google, ChatGPT, Grok, Perplexity y el resto.
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://berawadigital-ctrl.github.io/demo-marcet-abogados/sitemap.xml

@@ -1,0 +1,43 @@
+# Marcet Abogados
+
+> Despacho de abogados desde 2001, con oficinas en Terrassa, Barcelona y Madrid. Áreas: extranjería, derecho civil, derecho de familia, derecho laboral y derecho penal. Atención en castellano, catalán, inglés y francés (nociones de árabe marroquí, darija). Las visitas son con hora concertada.
+
+Esta web es una propuesta de rediseño (demo) de una sola página. El texto está en castellano por defecto y el selector permite verlo en catalán, inglés, francés o alemán; no hay una URL distinta por idioma. El asistente de la página informa de áreas, oficinas, horario y cómo pedir cita, y no da asesoramiento jurídico.
+
+Datos publicados en la página:
+
+- Teléfonos: [937 858 475](tel:+34937858475) y [630 449 648](tel:+34630449648)
+- Correo: [info@marcetabogados.com](mailto:info@marcetabogados.com)
+- Horario de visitas, con hora concertada: de lunes a jueves de 10:00 a 14:00 y de 16:30 a 20:30; viernes de 10:00 a 14:30
+
+## Página
+
+- [Marcet Abogados](https://berawadigital-ctrl.github.io/demo-marcet-abogados/): presentación del despacho, áreas de práctica, equipo y oficinas
+
+## Oficinas
+
+- [Terrassa](https://berawadigital-ctrl.github.io/demo-marcet-abogados/#contact): Carretera de Castellar, 486, 1ª, 08227 Terrassa
+- [Barcelona](https://berawadigital-ctrl.github.io/demo-marcet-abogados/#contact): Avinguda Diagonal, 449, 4º, 08036 Barcelona
+- [Madrid](https://berawadigital-ctrl.github.io/demo-marcet-abogados/#contact): Paseo de las Acacias, 15, 4ºB, 28005 Madrid
+
+## Áreas de práctica
+
+- [Extranjería](https://berawadigital-ctrl.github.io/demo-marcet-abogados/#areas): Derecho internacional privado. Solicitud y renovación de tarjeta de residencia y trabajo y NIE, reagrupaciones familiares, solicitud de nacionalidad española.
+- [Derecho civil](https://berawadigital-ctrl.github.io/demo-marcet-abogados/#areas): Contratos y gestiones. Arrendamientos y desahucios, reclamaciones de accidentes de tráfico y laborales, defectos de construcción de edificios.
+- [Derecho de familia](https://berawadigital-ctrl.github.io/demo-marcet-abogados/#areas): Divorcios y testamentos. Nulidades matrimoniales, divorcios, disoluciones o separaciones, testamentos y herencias.
+- [Derecho laboral](https://berawadigital-ctrl.github.io/demo-marcet-abogados/#areas): Laboral y Seguridad Social. Derecho del trabajo, prestaciones de la Seguridad Social, prevención de riesgos laborales, reclamaciones al FOGASA.
+- [Derecho penal](https://berawadigital-ctrl.github.io/demo-marcet-abogados/#areas): Asistencia y acusaciones. Asistencia en juzgados y comisarías, denuncias, escritos de acusación y defensa, violencia doméstica y de género.
+
+## Equipo
+
+- [Mylène Marcet Pierre](https://berawadigital-ctrl.github.io/demo-marcet-abogados/#team): Abogada generalista. Máster en Derecho de Extranjería. Profesora en la Escuela de Práctica Jurídica del Ilustre Colegio de Abogados de Terrassa. Profesora de extranjería en CICAC.
+- [Roser Raurich Marcet](https://berawadigital-ctrl.github.io/demo-marcet-abogados/#team): Abogada. Licenciada en Derecho. Licenciada en ADE. Diplomada en CEE. Derecho laboral y Seguridad Social, penal y familia.
+- [Laia Andrevi Balaguer](https://berawadigital-ctrl.github.io/demo-marcet-abogados/#team): Departamento de extranjería. Graduada en Derecho. Diplomada en Relaciones Laborales. Responsable del departamento de extranjería.
+- [Sergi Escorihuela Busqueta](https://berawadigital-ctrl.github.io/demo-marcet-abogados/#team): Abogado. Reclamaciones de accidentes.
+- [Rosario Raposo Martínez](https://berawadigital-ctrl.github.io/demo-marcet-abogados/#team): Abogada. Máster en Derecho Sociolaboral. Derecho laboral y Seguridad Social.
+
+## Optional
+
+- [Pedir cita](mailto:info@marcetabogados.com?subject=Solicitud%20de%20cita%20%C2%B7%20Marcet%20Abogados): correo con el asunto que ya usa la web
+- [robots.txt](https://berawadigital-ctrl.github.io/demo-marcet-abogados/robots.txt): permite el rastreo y enlaza el mapa del sitio
+- [sitemap.xml](https://berawadigital-ctrl.github.io/demo-marcet-abogados/sitemap.xml): única URL de esta demo
